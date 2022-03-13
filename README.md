@@ -1,7 +1,8 @@
 # food_delivery_system
 ## Introduction
+
 The system stores information about food delivery orders (food orders) and food delivery drivers (drivers), and assists the restaurant manager (user) to assign drivers to handle the food orders (i.e., deliver the food) within a day from 07:00 to 20:00. You can assume that the system can at most store information of 100 food orders and 20 drivers.
----
+
 ## Requirement
 R0: 
 When the program starts, the console should display a welcome message, followed by the Main Menu of the program. User can enter the options of the corresponding actions (see R1 to R5 below).
